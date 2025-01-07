@@ -79,7 +79,7 @@ const AboutSection = () => {
             {/* Image Section */}
             <div className="lg:w-2/5 mt-8 lg:mt-0">
               <div className="relative w-full h-96 lg:h-[480px]">
-                <div className="relative w-full h-48 bg-gray-900 rounded-lg overflow-hidden">
+                <div className="relative w-full h-[700px] bg-gray-900 rounded-lg overflow-hidden">
                   <Image
                     src="/jibran-23.JPG"
                     alt="Jibran Image"
