@@ -13,22 +13,7 @@ const Footer = () => {
           href={"#"}
           target="blank"
         >
-          <BsYoutube className="text-2xl hover:text-red-500 duration-200" />
-        </Link>
-        <Link href={"#"} target="blank">
-          <BsGithub className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
-        </Link>
-        <Link
-          href={"#"}
-          target="blank"
-        >
           <BsFacebook className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
-        </Link>
-        <Link
-          href={"#"}
-          target="blank"
-        >
-          <BsInstagram className="text-2xl hover:text-orange-500 duration-200 cursor-pointer" />
         </Link>
       </div>
       <p className="text-sm text-gray-300">
@@ -38,7 +23,7 @@ const Footer = () => {
           target="blank"
           className="hover:text-white font-semibold duration-200"
         >
-          @reactjsBD
+          @Jibran Photographer
         </Link>
       </p>
     </Container>
